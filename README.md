@@ -1,4 +1,4 @@
-# 🛠️ MellonKey◉fs◉  — Portfolio Project
+# 🛠️ MellonKey◉fs◉ v1.0.0 — Portfolio Project
 
 > MellonKey◉fs◉, inspired by the gate of Moria.
 
